@@ -2,4 +2,4 @@ language: python
 puthon:
  - "3.4"
 script: 
- - cd srcpython testes.py
+ - cd src python testes.py
