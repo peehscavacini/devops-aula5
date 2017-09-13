@@ -1,5 +1,5 @@
 language: python
-puthon:
-  - "3.4"
-script:
+python:
+ - "3.4"
+ script: 
   - cd src; python testes.py
